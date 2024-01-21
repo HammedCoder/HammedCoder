@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hammed Rafiu</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Backend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammedcoder&label=Profile%20views&color=0e75b6&style=flat" alt="hammedcoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammedcoder" alt="hammedcoder" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on [schoolmgt with PHP](https://github.com/HammedCoder/schoolmgt.git)
+- 👯 I’m looking to collaborate on [schoolmgt with Python/Django](https://github.com/HammedCoder/schoolmgt.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HammedCoder?tab=repositories](https://github.com/HammedCoder?tab=repositories)
 
-- 💬 Ask me about **Javascript, ReactJS, Django**
+- 💬 Ask me about **Javascript,HTML, CSS, Python, Django**
 
 - 📫 How to reach me **rafiuhammed718@gmail.com**
 
